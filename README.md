@@ -1,2 +1,2 @@
 # software
-Propelled by <a href="https://crackshit.com/">Coding Interview College.</a>
+Propelled by <a href="https://crackshit.com/">Our Website</a>
